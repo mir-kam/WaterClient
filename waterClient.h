@@ -8,7 +8,7 @@ class WaterClient
 public:
 
 	typedef UserId int;
-	typedef Pin int;
+	typedef Pin long long int;
 	typedef RfidId long long int;
 	typedef Credit unsigned int;
 
